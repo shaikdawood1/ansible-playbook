@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: tom
   gather_facts: no
   tasks:
   - name: creating a folder
