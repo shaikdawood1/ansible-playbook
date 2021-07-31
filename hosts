@@ -1,1 +1,1 @@
-tom ansible_ssh_host=18.219.207.233  ansible_ssh_user=ec2-user
+tom ansible_ssh_host=3.15.234.26  ansible_ssh_user=ec2-user
